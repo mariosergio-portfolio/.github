@@ -22,12 +22,17 @@
   #### repo: comming soon
   Fully Genereted with the following HARNESS:  atomic tech skills + Webstore REST API JAVA
 
+---  
+5- **REACT IA FRONT APP** — Webstore UI 
+  #### repo: comming soon
+
+
 ---
-5- **SSE** — practical exploration of Server-Sent Events as a unidirectional streaming mechanism, compared with WebSockets.
+6- **SSE** — practical exploration of Server-Sent Events as a unidirectional streaming mechanism, compared with WebSockets.
   #### repo: comming soon
 
 ---
-6- **Circuit Breaker** — deep dive into the Circuit Breaker resilience pattern (closed/open/half-open) and its implementation with Resilience4j / Go equivalents.
+7- **Circuit Breaker** — deep dive into the Circuit Breaker resilience pattern (closed/open/half-open) and its implementation with Resilience4j / Go equivalents.
   #### repo: comming soon
 
 ---------
