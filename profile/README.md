@@ -16,7 +16,7 @@
   #### Here we explore the AWS AI and Machine Learning Services: Polly (text to speach); Amazon Bedrock (natural language processing).
   
 
- ![Customers API case study](README_UI_1.png)
+ <img src="README_UI_1.png" alt="Customers API case study" width="800">
 
  *Filtering customers and playing back a Polly-synthesized pronunciation, powered by [customers-api](https://github.com/mariosergio-portfolio/customers-api).*
 
