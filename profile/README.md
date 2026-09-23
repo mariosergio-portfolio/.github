@@ -23,7 +23,7 @@
   Fully Genereted with the following HARNESS:  atomic tech skills + Webstore REST API JAVA
 
 ---  
-5- **REACT IA FRONT APP** — Webstore UI 
+5- **REACT UI FRONT APP** — Webstore UI 
   #### repo: comming soon
 
 
