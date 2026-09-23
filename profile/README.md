@@ -10,7 +10,7 @@
   #### repo: https://github.com/mariosergio-portfolio/customers-api~
 
 ---
-2- **AI and Machine Learning Services** — Customers API explores Gen AI features by using Polly (text to speach); Amazon Bedrock (natural language processing).
+2- **AI and Machine Learning Services** — Customers API explores Gen AI features by using Polly (text to speech) and Amazon Bedrock (natural language processing).
   #### repo: https://github.com/mariosergio-portfolio/customers-api
   
 ---  
