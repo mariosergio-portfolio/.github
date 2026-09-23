@@ -9,7 +9,8 @@
 ## Case Studies
 
 1- **Parallelism — Java vs Go** — compares parallel counter execution between a Java thread-pool server and a Go goroutine server, against local and AWS-hosted environments.
-  #### repo: https://github.com/mariosergio-portfolio/customers-api
+  #### repo: https://github.com/mariosergio-portfolio/customers-api~
+
 ---
 2- **AI and Machine Learning Services** — Customers API explores Gen AI features by using Polly (text to speach); Amazon Bedrock (natural language processing).
   #### repo: https://github.com/mariosergio-portfolio/customers-api
@@ -21,15 +22,18 @@
 ---
 4- **GEN AI CODE MIGRATION** — Webstore REST API (KOTLIN + QUARKUS + GRADLE) explores the power of Gen AI the generated code based on an existing implementation.
   #### repo: comming soon
-  *Fully Genereted base on the Webstore REST API (JAVA + SPRING + MAVEN)
+  Fully Genereted with the following HARNESS:  atomic tech skills + Webstore REST API JAVA
+
 ---
 5- **SSE** — practical exploration of Server-Sent Events as a unidirectional streaming mechanism, compared with WebSockets.
   #### repo: comming soon
+
 ---
 6- **Circuit Breaker** — deep dive into the Circuit Breaker resilience pattern (closed/open/half-open) and its implementation with Resilience4j / Go equivalents.
   #### repo: comming soon
 
 ---------
+
 ## Portfolio Frontend
 
 UI client to easy try the backend applications/user cases
