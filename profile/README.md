@@ -28,7 +28,7 @@
 ---  
 5- **REACT UI FRONT APP** — A React + TypeScript single-page application for an webstore store front UI
   #### repo: https://github.com/mariosergio-portfolio/webstore-frontend
-  * consumes the rest Webstore REST API (3 JAVA | 4 KOTLIN) 
+  * UI which consumes Webstore REST APIs (3 JAVA | 4 KOTLIN) 
   
 ---
 6- **SSE** — practical exploration of Server-Sent Events as a unidirectional streaming mechanism, compared with WebSockets.
