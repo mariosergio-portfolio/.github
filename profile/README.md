@@ -11,7 +11,9 @@
 
 ---
 2- **AI and Machine Learning Services** — Customers API explores Gen AI features by using Polly (text to speech) and Amazon Bedrock (natural language processing).
-  #### repo: https://github.com/mariosergio-portfolio/customers-api
+
+  #### JAVA API: repo: https://github.com/mariosergio-portfolio/customers-api
+  #### NODE API: repo: https://github.com/mariosergio-portfolio/customers-api-node
   
 ---  
 3- **HEXAGONAL Archtecture** — Webstore REST API (JAVA + SPRING + MAVEN) explores Architecture: Hexagonal (Ports & Adapters) and REST API Good Practices
