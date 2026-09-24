@@ -17,19 +17,19 @@
   #### NODE API: repo: https://github.com/mariosergio-portfolio/customers-api-node
   
 ---  
-3- **HEXAGONAL Architecture** — Webstore REST API (JAVA + SPRING + MAVEN) explores Architecture: Hexagonal (Ports & Adapters) and REST API Good Practices
+3- **HEXAGONAL Architecture** — **Webstore REST API JAVA** (SPRING + MAVEN) explores Architecture: Hexagonal (Ports & Adapters) and REST API Good Practices
   #### repo: comming soon
 
 ---
-4- **GEN AI CODE MIGRATION** — Webstore REST API (KOTLIN + QUARKUS + GRADLE) explores the power of Gen AI the generated code based on an existing implementation.
+4- **GEN AI CODE MIGRATION** — **Webstore REST API KOTLIN** (QUARKUS + GRADLE) explores the power of Gen AI the generated code based on an existing implementation.
   #### repo: comming soon
   Fully Genereted with the following HARNESS:  atomic tech skills + Webstore REST API JAVA
 
 ---  
-5- **REACT UI FRONT APP** — Webstore UI 
-  #### repo: comming soon
-
-
+5- **REACT UI FRONT APP** — A React + TypeScript single-page application for an webstore store front UI
+  #### repo: https://github.com/mariosergio-portfolio/webstore-frontend
+  * consumes the rest Webstore REST API (3 JAVA | 4 KOTLIN) 
+  
 ---
 6- **SSE** — practical exploration of Server-Sent Events as a unidirectional streaming mechanism, compared with WebSockets.
   #### repo: comming soon
@@ -42,6 +42,6 @@
 
 ## Portfolio Frontend
 
-UI client to easy try the backend applications/user cases
+UI client to easy try the backend API applications/user cases
 
 repo: https://github.com/mariosergio-portfolio/portfolio-frontend
