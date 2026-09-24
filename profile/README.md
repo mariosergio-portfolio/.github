@@ -12,7 +12,9 @@ To try the case studies below, use the UI client available in the frontend repos
 ## Repository Summary / Case Studies
 
 1- **Parallelism — Java vs Go** — compares parallel counter execution between a Java thread-pool server and a Go goroutine server, against local and AWS-hosted environments.
-  #### repo: comming soon
+
+  #### JAVA API: repo: [https://github.com/mariosergio-portfolio/customers-api](https://github.com/mariosergio-portfolio/parallelism-go)
+  #### GO LANG API: repo: [https://github.com/mariosergio-portfolio/customers-api-node](https://github.com/mariosergio-portfolio/parallelism-java)
 ---
 2- **AI and Machine Learning Services** — Customers API explores Gen AI features by using AWS Services: Polly (synthesize text to speech) and Amazon Bedrock (natural language processing).
 
