@@ -40,25 +40,25 @@ To try the case studies below, use the UI client available in the frontend repos
 ---
 
 4- **Circuit Breaker** — deep dive into the Circuit Breaker resilience pattern (closed/open/half-open) and its implementation with Resilience4j / Go equivalents.
-  #### repo: comming soon
+  #### repo: coming soon
 
 ---
 
 5- **File Processing workloads (upload/download)** — exploring the power of Spring Batch Framework / Outbox pattern / event-driver archctecture to.
-  #### repo: comming soon
+  #### repo: coming soon
 
   - Spring Batch for Backgroud File Processing workloads
-     #### repo: comming soon
+     #### repo: coming soon
 
   - Outbox pattern: redundant and fail tolerant event driven 
      #### repo: comming soon
 
   - File manager API: Asynchronous Rest API for file upload/download
-     #### repo: comming soon
+     #### repo: coming soon
   
 ---
 
 6- **Model Context Protocol (MCP) Server (AI & Development)** — deep dive into the Gen AI MCP Server.
-  #### repo: comming soon
+  #### repo: coming soon
   
 ---------
