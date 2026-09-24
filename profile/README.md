@@ -23,7 +23,7 @@
 ---
 4- **GEN AI CODE MIGRATION** — **Webstore REST API KOTLIN** (QUARKUS + GRADLE) explores the power of Gen AI the generated code based on an existing implementation.
   #### repo: comming soon
-  Fully Genereted with the following HARNESS:  atomic tech skills + Webstore REST API JAVA
+  * Fully Genereted with the following HARNESS:  atomic tech skills based on the Webstore REST API JAVA repo.
 
 ---  
 5- **REACT UI FRONT APP** — A React + TypeScript single-page application for an webstore store front UI
