@@ -22,34 +22,41 @@ To try the case studies below, use the UI client available in the frontend repos
   #### NODE API: repo: https://github.com/mariosergio-portfolio/customers-api-node
   
 ---  
-3- **Webstore REST API JAVA** (SPRING + MAVEN) - explores **HEXAGONAL Architecture** (Ports & Adapters) and REST API Good Practices
+3- **Webstore App** :  REST API / UI / Architecture Good Practices
+  
+  - **Webstore REST API JAVA** (SPRING + MAVEN) - explores **HEXAGONAL Architecture** (Ports & Adapters) and REST API Good Practices
+     #### repo: comming soon
+
+  - **Webstore REST API KOTLIN** (QUARKUS + GRADLE) —  explores the power of **GEN AI CODE MIGRATION** based on an existing implementation.
+    #### repo: comming soon
+    * Fully Genereted with the following HARNESS:  atomic tech skills based on the Webstore REST API JAVA repo.
+ 
+  - **Webstore REACT UI FRONT-END APP** — A React + TypeScript single-page application for an webstore store front UI
+    #### repo: https://github.com/mariosergio-portfolio/webstore-frontend
+    * UI which consumes Webstore REST APIs (JAVA | KOTLIN) 
+
+---
+
+4- **Circuit Breaker** — deep dive into the Circuit Breaker resilience pattern (closed/open/half-open) and its implementation with Resilience4j / Go equivalents.
   #### repo: comming soon
 
 ---
-4- **Webstore REST API KOTLIN** (QUARKUS + GRADLE) —  explores the power of **GEN AI CODE MIGRATION** based on an existing implementation.
-  #### repo: comming soon
-  * Fully Genereted with the following HARNESS:  atomic tech skills based on the Webstore REST API JAVA repo.
 
----  
-5- **Webstore REACT UI FRONT-END APP** — A React + TypeScript single-page application for an webstore store front UI
-  #### repo: https://github.com/mariosergio-portfolio/webstore-frontend
-  * UI which consumes Webstore REST APIs (3 JAVA | 4 KOTLIN) 
+5- **File Processing workloads** — exploring the power of Spring Batch Framework / Outbox pattern / event-driver archctecture to.
+  #### repo: comming soon
+
+  - Spring Batch for Backgroud File Processing workloads
+     #### repo: comming soon
+
+  - Outbox pattern: redundant and fail tolerant event driven 
+     #### repo: comming soon
+
+  - File manager API: Asynchronous Rest API for file upload/download
+     #### repo: comming soon
   
 ---
-6- **SSE** — practical exploration of Server-Sent Events as a unidirectional streaming mechanism, compared with WebSockets.
-  #### repo: comming soon
 
----
-7- **Circuit Breaker** — deep dive into the Circuit Breaker resilience pattern (closed/open/half-open) and its implementation with Resilience4j / Go equivalents.
-  #### repo: comming soon
-
----
-
-8- **Spring Batch for Asynchronous File Processing** — exploring the power of Spring Batch Frameworks to process files Asynchronously in different formats.
-  #### repo: comming soon
-
----
-9- **Model Context Protocol (MCP) Server (AI & Development)** — deep dive into the Gen AI MCP Server.
+6- **Model Context Protocol (MCP) Server (AI & Development)** — deep dive into the Gen AI MCP Server.
   #### repo: comming soon
   
 ---------
