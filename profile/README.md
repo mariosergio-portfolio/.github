@@ -15,7 +15,7 @@
   #### NODE API: repo: https://github.com/mariosergio-portfolio/customers-api-node
   
 ---  
-3- **HEXAGONAL Archtecture** — Webstore REST API (JAVA + SPRING + MAVEN) explores Architecture: Hexagonal (Ports & Adapters) and REST API Good Practices
+3- **HEXAGONAL Architecture** — Webstore REST API (JAVA + SPRING + MAVEN) explores Architecture: Hexagonal (Ports & Adapters) and REST API Good Practices
   #### repo: comming soon
 
 ---
