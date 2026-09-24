@@ -22,7 +22,7 @@ To try the case studies below, use the UI client available in the frontend repos
   #### NODE API: repo: https://github.com/mariosergio-portfolio/customers-api-node
   
 ---  
-3- **Webstore App** :  REST API / UI / Architecture Good Practices
+3- **Webstore App** :  REST API / AWS CloudFormation / Architecture / Good Practices / UI
   
   - **Webstore REST API JAVA** (SPRING + MAVEN) - explores **HEXAGONAL Architecture** (Ports & Adapters) +  **AWS CloudFormation** + and  **REST API Good Practices**
      #### repo: https://github.com/mariosergio-portfolio/webstore-api-java
