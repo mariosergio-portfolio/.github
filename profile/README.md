@@ -1,7 +1,7 @@
 #### Contact & Links
 
 - 💼 LinkedIn: [linkedin.com/in/mariosergio30](https://www.linkedin.com/in/mariosergio30)
-- 🦊 GitHub - exploratory projects: [github.com/mariosergio-portfolio/](https://github.com/orgs/mariosergio-portfolio/repositories)
+- 🦊 GitHub - exploratory projects: https://github.com/orgs/mariosergio-portfolio/repositories
 - ✉️ Email: [mariosergio30@gmail.com](mailto:mariosergio30@gmail.com)
 
 ---
