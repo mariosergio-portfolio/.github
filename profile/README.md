@@ -4,7 +4,7 @@
 - 🦊 GitHub - exploratory projects: [github.com/mariosergio-portfolio/](https://github.com/orgs/mariosergio-portfolio/repositories)
 - ✉️ Email: [mariosergio30@gmail.com](mailto:mariosergio30@gmail.com)
 
-## Case Studies
+## Repository Summary / Case Studies
 
 1- **Parallelism — Java vs Go** — compares parallel counter execution between a Java thread-pool server and a Go goroutine server, against local and AWS-hosted environments.
   #### repo: comming soon
