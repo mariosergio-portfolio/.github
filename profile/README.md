@@ -22,16 +22,16 @@ To try the case studies below, use the UI client available in the frontend repos
   #### NODE API: repo: https://github.com/mariosergio-portfolio/customers-api-node
   
 ---  
-3- **HEXAGONAL Architecture** — **Webstore REST API JAVA** (SPRING + MAVEN) explores Architecture: Hexagonal (Ports & Adapters) and REST API Good Practices
+3- **Webstore REST API JAVA** (SPRING + MAVEN) - explores **HEXAGONAL Architecture** (Ports & Adapters) and REST API Good Practices
   #### repo: comming soon
 
 ---
-4- **GEN AI CODE MIGRATION** — **Webstore REST API KOTLIN** (QUARKUS + GRADLE) explores the power of Gen AI the generated code based on an existing implementation.
+4- **Webstore REST API KOTLIN** (QUARKUS + GRADLE) —  explores the power of **GEN AI CODE MIGRATION** based on an existing implementation.
   #### repo: comming soon
   * Fully Genereted with the following HARNESS:  atomic tech skills based on the Webstore REST API JAVA repo.
 
 ---  
-5- **REACT UI FRONT APP** — A React + TypeScript single-page application for an webstore store front UI
+5- **Webstore REACT UI FRONT-END APP** — A React + TypeScript single-page application for an webstore store front UI
   #### repo: https://github.com/mariosergio-portfolio/webstore-frontend
   * UI which consumes Webstore REST APIs (3 JAVA | 4 KOTLIN) 
   
