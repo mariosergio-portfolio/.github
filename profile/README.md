@@ -42,9 +42,3 @@ Note: All the case studies bellow can be easy tried through the UI client https:
   #### repo: comming soon
 
 ---------
-
-## Portfolio Frontend
-
-UI client to easy try the backend API applications/user cases
-
-repo: https://github.com/mariosergio-portfolio/portfolio-frontend
