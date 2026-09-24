@@ -5,7 +5,7 @@
 - ✉️ Email: [mariosergio30@gmail.com](mailto:mariosergio30@gmail.com)
 
 ---
-Note: All the case studies bellow can be easy tried through the UI client https://github.com/mariosergio-portfolio/portfolio-frontend
+To try the case studies below, use the UI client available in the frontend repository: https://github.com/mariosergio-portfolio/portfolio-frontend
 
 ---
 
