@@ -44,7 +44,7 @@ To try the case studies below, use the UI client available in the frontend repos
 
 ---
 
-5- **File Processing workloads** — exploring the power of Spring Batch Framework / Outbox pattern / event-driver archctecture to.
+5- **File Processing workloads (upload/download)** — exploring the power of Spring Batch Framework / Outbox pattern / event-driver archctecture to.
   #### repo: comming soon
 
   - Spring Batch for Backgroud File Processing workloads
