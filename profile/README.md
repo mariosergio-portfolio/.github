@@ -41,4 +41,13 @@ To try the case studies below, use the UI client available in the frontend repos
 7- **Circuit Breaker** — deep dive into the Circuit Breaker resilience pattern (closed/open/half-open) and its implementation with Resilience4j / Go equivalents.
   #### repo: comming soon
 
+---
+
+8- **Spring Batch for Asynchronous File Processing** — exploring the power of Spring Batch Frameworks to process files Asynchronously in different formats.
+  #### repo: comming soon
+
+---
+9- **Model Context Protocol (MCP) Server (AI & Development)** — deep dive into the Gen AI MCP Server.
+  #### repo: comming soon
+  
 ---------
