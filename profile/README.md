@@ -51,7 +51,7 @@ To try the case studies below, use the UI client available in the frontend repos
      #### repo: coming soon
 
   - Outbox pattern: redundant and fail tolerant event driven 
-     #### repo: comming soon
+     #### repo: coming soon
 
   - File manager API: Asynchronous Rest API for file upload/download
      #### repo: coming soon
