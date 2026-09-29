@@ -13,47 +13,47 @@ To try the case studies below, use the UI client available in the frontend repos
 
 1- **Parallelism — Java vs Go** — compares parallel counter execution between a Java thread-pool server and a Go goroutine server, against local and AWS-hosted environments.
 
-  #### JAVA API: repo: https://github.com/mariosergio-portfolio/parallelism-go  
-  #### GOLANG API: repo: https://github.com/mariosergio-portfolio/parallelism-java
+  #### JAVA API: repo: https://github.com/mariosergio-portfolio/parallelism-go <img src="https://skillicons.dev/icons?i=java" height="28" align="absmiddle" />  
+  #### GOLANG API: repo: https://github.com/mariosergio-portfolio/parallelism-java <img src="https://skillicons.dev/icons?i=go" height="28" align="absmiddle" />
 ---
 2- **AI and Machine Learning Services** — Customers API explores Gen AI features by using AWS Services: Polly (synthesize text to speech) and Amazon Bedrock (natural language processing).
 
-  #### JAVA API: repo: https://github.com/mariosergio-portfolio/customers-api
-  #### NODE API: repo: https://github.com/mariosergio-portfolio/customers-api-node
+  #### JAVA API: repo: https://github.com/mariosergio-portfolio/customers-api <img src="https://skillicons.dev/icons?i=java" height="28" align="absmiddle" />
+  #### NODE API: repo: https://github.com/mariosergio-portfolio/customers-api-node <img src="https://skillicons.dev/icons?i=nodejs" height="28" align="absmiddle" />
   
 ---  
-3- **Webstore App** :  REST API / Architecture / Good Practices / UI
+3- **Webstore App** 🛒 :  REST API / Architecture / Good Practices / UI
   
-  - **Webstore REST API JAVA** (SPRING + MAVEN) - explores **HEXAGONAL Architecture** (Ports & Adapters) and **REST API Good Practices**
-     #### repo: https://github.com/mariosergio-portfolio/webstore-api-java
+  - **Webstore REST API JAVA** (SPRING + MAVEN) <img src="https://skillicons.dev/icons?i=spring,maven" height="28" align="absmiddle" /> 🔌 - explores **HEXAGONAL Architecture** (Ports & Adapters) and **REST API Good Practices**
+     #### repo: https://github.com/mariosergio-portfolio/webstore-api-java <img src="https://skillicons.dev/icons?i=java" height="28" align="absmiddle" />
      
   --
-  - **Webstore REST API KOTLIN** (QUARKUS + GRADLE) —  explores the power of **GEN AI CODE MIGRATION** based on an existing implementation.
-    #### repo: https://github.com/mariosergio-portfolio/webstore-api-kotlin
+  - **Webstore REST API KOTLIN** (QUARKUS + GRADLE) <img src="https://skillicons.dev/icons?i=gradle" height="28" align="absmiddle" /> 🤖 —  explores the power of **GEN AI CODE MIGRATION** based on an existing implementation.
+    #### repo: https://github.com/mariosergio-portfolio/webstore-api-kotlin <img src="https://skillicons.dev/icons?i=kotlin" height="28" align="absmiddle" />
     * Fully Genereted with the following HARNESS:  atomic tech skills based on the Webstore REST API JAVA repo.
 
  --
-  - **Webstore REACT UI FRONT-END APP** — A React + TypeScript single-page application for an webstore store front UI
-    #### repo: https://github.com/mariosergio-portfolio/webstore-frontend
+  - **Webstore REACT UI FRONT-END APP** <img src="https://skillicons.dev/icons?i=vite" height="28" align="absmiddle" /> — A React + TypeScript single-page application for an webstore store front UI
+    #### repo: https://github.com/mariosergio-portfolio/webstore-frontend <img src="https://skillicons.dev/icons?i=react,ts" height="28" align="absmiddle" />
     * UI which consumes Webstore REST APIs (JAVA | KOTLIN) 
 
 ---
 
-4- **AWS CloudFormation (IaC)** — Reusable Infrastructure as Code to deploy the Webstore App on AWS with CloudFormation + ECS.
+4- **AWS CloudFormation (IaC)** <img src="https://skillicons.dev/icons?i=aws" height="28" align="absmiddle" />  — Reusable Infrastructure as Code to deploy the Webstore App on AWS with CloudFormation + ECS.
   #### repo: https://github.com/mariosergio-portfolio/iac-aws-cloud-formation
 
 ---
 
-5- **Circuit Breaker** — deep dive into the Circuit Breaker resilience pattern (closed/open/half-open) and its implementation with Resilience4j / Go equivalents.
-  #### repo: coming soon
+5- **Circuit Breaker** ⚡ — deep dive into the Circuit Breaker resilience pattern (closed/open/half-open) and its implementation with Resilience4j / Go equivalents.
+  #### repo: coming soon <img src="https://skillicons.dev/icons?i=java,go" height="28" align="absmiddle" />
 
 ---
 
-6- **File Processing workloads (upload/download)** — exploring the power of Spring Batch Framework / Outbox pattern / event-driver archctecture to.
-  #### repo: coming soon
+6- **File Processing workloads (upload/download)** <img src="https://skillicons.dev/icons?i=spring" height="28" align="absmiddle" /> 📤 — exploring the power of Spring Batch Framework / Outbox pattern / event-driver archctecture to.
+  #### repo: coming soon <img src="https://skillicons.dev/icons?i=java" height="28" align="absmiddle" />
 
   - Spring Batch for Backgroud File Processing workloads
-     #### repo: coming soon
+     #### repo: coming soon <img src="https://skillicons.dev/icons?i=java" height="28" align="absmiddle" />
 
   - Outbox pattern: redundant and fail tolerant event driven 
      #### repo: coming soon
@@ -63,7 +63,7 @@ To try the case studies below, use the UI client available in the frontend repos
   
 ---
 
-7- **Model Context Protocol (MCP) Server (AI & Development)** — deep dive into the Gen AI MCP Server.
+7- **Model Context Protocol (MCP) Server (AI & Development)** 🤖🔌 — deep dive into the Gen AI MCP Server.
   #### repo: coming soon
   
 ---------
