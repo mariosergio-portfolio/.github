@@ -22,9 +22,9 @@ To try the case studies below, use the UI client available in the frontend repos
   #### NODE API: repo: https://github.com/mariosergio-portfolio/customers-api-node
   
 ---  
-3- **Webstore App** :  REST API / AWS CloudFormation / Architecture / Good Practices / UI
+3- **Webstore App** :  REST API / Architecture / Good Practices / UI
   
-  - **Webstore REST API JAVA** (SPRING + MAVEN) - explores **HEXAGONAL Architecture** (Ports & Adapters) +  **AWS CloudFormation** + and  **REST API Good Practices**
+  - **Webstore REST API JAVA** (SPRING + MAVEN) - explores **HEXAGONAL Architecture** (Ports & Adapters) and **REST API Good Practices**
      #### repo: https://github.com/mariosergio-portfolio/webstore-api-java
      
   --
@@ -39,12 +39,17 @@ To try the case studies below, use the UI client available in the frontend repos
 
 ---
 
-4- **Circuit Breaker** — deep dive into the Circuit Breaker resilience pattern (closed/open/half-open) and its implementation with Resilience4j / Go equivalents.
+4- **AWS CloudFormation (IaC)** — Reusable Infrastructure as Code to deploy the Webstore App on AWS with CloudFormation + ECS.
+  #### repo: https://github.com/mariosergio-portfolio/iac-aws-cloud-formation
+
+---
+
+5- **Circuit Breaker** — deep dive into the Circuit Breaker resilience pattern (closed/open/half-open) and its implementation with Resilience4j / Go equivalents.
   #### repo: coming soon
 
 ---
 
-5- **File Processing workloads (upload/download)** — exploring the power of Spring Batch Framework / Outbox pattern / event-driver archctecture to.
+6- **File Processing workloads (upload/download)** — exploring the power of Spring Batch Framework / Outbox pattern / event-driver archctecture to.
   #### repo: coming soon
 
   - Spring Batch for Backgroud File Processing workloads
@@ -58,7 +63,7 @@ To try the case studies below, use the UI client available in the frontend repos
   
 ---
 
-6- **Model Context Protocol (MCP) Server (AI & Development)** — deep dive into the Gen AI MCP Server.
+7- **Model Context Protocol (MCP) Server (AI & Development)** — deep dive into the Gen AI MCP Server.
   #### repo: coming soon
   
 ---------
