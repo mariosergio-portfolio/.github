@@ -44,26 +44,29 @@ To try the case studies below, use the UI client available in the frontend repos
 
 ---
 
-5- **Circuit Breaker** ⚡ — deep dive into the Circuit Breaker resilience pattern (closed/open/half-open) and its implementation with Resilience4j / Go equivalents.
-  #### repo: coming soon <img src="https://skillicons.dev/icons?i=java,go" height="28" align="absmiddle" />
-
----
-
-6- **File Processing workloads (upload/download) ** <img src="https://skillicons.dev/icons?i=spring" height="28" align="absmiddle" /> 📤 — exploring the power of Spring Batch Framework / Outbox pattern / event-driver archctecture with RabbitMQ <img src="https://skillicons.dev/icons?i=rabbitmq" height="28" align="absmiddle" /> with consistent hash.
-  #### repo: coming soon <img src="https://skillicons.dev/icons?i=java" height="28" align="absmiddle" />
-
+5- **File Processing workloads (upload/download) ** <img src="https://skillicons.dev/icons?i=spring" height="28" align="absmiddle" /> 📤 — exploring the power of Spring Batch Framework / Outbox pattern / event-driver archctecture with RabbitMQ <img src="https://skillicons.dev/icons?i=rabbitmq" height="28" align="absmiddle" /> with consistent hash.
+  
   - Spring Batch for Backgroud File Processing workloads
      #### repo: https://github.com/mariosergio-portfolio/file-processor-worker 
 
+---
 
   - Transactional Outbox pattern: Relay Worker (solves the dual-write problem by saving business data and outgoing messages)
      #### repo: https://github.com/mariosergio-portfolio/file-outbox-pattern-worker
 
+---
 
   - File manager API: Asynchronous Rest API for file upload/download
      #### repo: https://github.com/mariosergio-portfolio/file-manager-api
 
 ---
+
+6- **Circuit Breaker** ⚡ — deep dive into the Circuit Breaker resilience pattern (closed/open/half-open) and its implementation with Resilience4j / Go equivalents.
+  #### repo: coming soon <img src="https://skillicons.dev/icons?i=java,go" height="28" align="absmiddle" />
+
+
+---
+
 
 7- **Model Context Protocol (MCP) Server (AI & Development)** 🤖🔌 — deep dive into the Gen AI MCP Server.
   #### repo: coming soon
