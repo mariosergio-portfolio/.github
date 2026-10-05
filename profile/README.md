@@ -49,18 +49,18 @@ To try the case studies below, use the UI client available in the frontend repos
 
 ---
 
-6- **File Processing workloads (upload/download)** <img src="https://skillicons.dev/icons?i=spring" height="28" align="absmiddle" /> 📤 — exploring the power of Spring Batch Framework / Outbox pattern / event-driver archctecture to.
+6- **File Processing workloads (upload/download) ** <img src="https://skillicons.dev/icons?i=spring" height="28" align="absmiddle" /> 📤 — exploring the power of Spring Batch Framework / Outbox pattern / event-driver archctecture with RabbitMQ <img src="https://skillicons.dev/icons?i=rabbitmq" height="28" align="absmiddle" /> with consistent hash.
   #### repo: coming soon <img src="https://skillicons.dev/icons?i=java" height="28" align="absmiddle" />
 
   - Spring Batch for Backgroud File Processing workloads
-     #### repo: coming soon <img src="https://skillicons.dev/icons?i=java" height="28" align="absmiddle" />
+     #### repo:  #### repo: https://github.com/mariosergio-portfolio/file-processor-worker 
 
-  - Outbox pattern: redundant and fail tolerant event driven 
-     #### repo: coming soon
+  - Transactional Outbox pattern: Relay Worker (solves the dual-write problem by saving business data and outgoing messages)
+     #### repo: https://github.com/mariosergio-portfolio/file-outbox-pattern-worker
 
   - File manager API: Asynchronous Rest API for file upload/download
-     #### repo: coming soon
-  
+     #### repo: https://github.com/mariosergio-portfolio/file-manager-api
+
 ---
 
 7- **Model Context Protocol (MCP) Server (AI & Development)** 🤖🔌 — deep dive into the Gen AI MCP Server.
