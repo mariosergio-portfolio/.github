@@ -24,14 +24,14 @@ To try the case studies below, use the UI client available in the frontend repos
 ---  
 3- **Webstore App** 🛒 :  REST API / Architecture / Good Practices / UI
   
-  - **Webstore REST API JAVA** (SPRING + MAVEN + PostGIS) <img src="https://skillicons.dev/icons?i=spring,maven,postgres" height="28" align="absmiddle" /> 
-     #### repo: https://github.com/mariosergio-portfolio/webstore-api-java <img src="https://skillicons.dev/icons?i=java" height="28" align="absmiddle" />
+  - **Webstore REST API JAVA** (SPRING + MAVEN + PostGIS) <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres" height="28" align="absmiddle" /> 
+     #### repo: https://github.com/mariosergio-portfolio/webstore-api-java
      note: explores  **Postgres PostGIS** for geography data + **HEXAGONAL Architecture** (Ports & Adapters)🔌 + **REST API Good Practices**
      
   --
   - **Webstore REST API KOTLIN** (QUARKUS + GRADLE) <img src="https://skillicons.dev/icons?i=gradle" height="28" align="absmiddle" /> 
     #### repo: https://github.com/mariosergio-portfolio/webstore-api-kotlin <img src="https://skillicons.dev/icons?i=kotlin" height="28" align="absmiddle" />
-    note: Fully AI Genereted with the following HARNESS:  atomic tech skills (my atomic skills: https://github.com/mariosergio-portfolio/skills) based on the Webstore REST API JAVA repo
+    note: **Fully AI Genereted with atomic tech skills HARNESS** (my skills repo: https://github.com/mariosergio-portfolio/skills) based on the Webstore REST API JAVA repo
     
  --
   - **Webstore REACT UI FRONT-END APP** <img src="https://skillicons.dev/icons?i=vite" height="28" align="absmiddle" /> — A React + TypeScript single-page application for an webstore store front UI
@@ -45,7 +45,7 @@ To try the case studies below, use the UI client available in the frontend repos
 
 ---
 
-5- **File Processing workloads (upload/download)** <img src="https://skillicons.dev/icons?i=spring" height="28" align="absmiddle" /> 📤 — exploring the power of Spring Batch Framework / Outbox pattern / event-driver archctecture with RabbitMQ <img src="https://skillicons.dev/icons?i=rabbitmq" height="28" align="absmiddle" /> with consistent hash.
+5- **File Processing workloads (upload/download)** <img src="https://skillicons.dev/icons?i=spring,rabbitmq" height="28" align="absmiddle" /> — exploring the power of Spring Batch Framework / Outbox pattern / Event-driven archctecture with RabbitMQ with consistent hash.
   
   - **Spring Batch for Backgroud File Processing workloads**
      #### repo: https://github.com/mariosergio-portfolio/file-processor-worker 
