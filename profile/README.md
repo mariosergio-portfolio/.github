@@ -30,12 +30,12 @@ To try the case studies below, use the UI client available in the frontend repos
   --
   - **Webstore REST API KOTLIN** (QUARKUS + GRADLE) <img src="https://skillicons.dev/icons?i=gradle" height="28" align="absmiddle" /> 🤖 —  explores the power of **GEN AI CODE MIGRATION** based on an existing implementation.
     #### repo: https://github.com/mariosergio-portfolio/webstore-api-kotlin <img src="https://skillicons.dev/icons?i=kotlin" height="28" align="absmiddle" />
-    * Fully Genereted with the following HARNESS:  atomic tech skills based on the Webstore REST API JAVA repo.
+    note: Fully Genereted with the following HARNESS:  atomic tech skills based on the Webstore REST API JAVA repo.
 
  --
   - **Webstore REACT UI FRONT-END APP** <img src="https://skillicons.dev/icons?i=vite" height="28" align="absmiddle" /> — A React + TypeScript single-page application for an webstore store front UI
     #### repo: https://github.com/mariosergio-portfolio/webstore-frontend <img src="https://skillicons.dev/icons?i=react,ts" height="28" align="absmiddle" />
-    * UI which consumes Webstore REST APIs (JAVA | KOTLIN) 
+    note: UI which consumes Webstore REST APIs (JAVA | KOTLIN) 
 
 ---
 
@@ -53,10 +53,12 @@ To try the case studies below, use the UI client available in the frontend repos
   #### repo: coming soon <img src="https://skillicons.dev/icons?i=java" height="28" align="absmiddle" />
 
   - Spring Batch for Backgroud File Processing workloads
-     #### repo:  #### repo: https://github.com/mariosergio-portfolio/file-processor-worker 
+     #### repo: https://github.com/mariosergio-portfolio/file-processor-worker 
+
 
   - Transactional Outbox pattern: Relay Worker (solves the dual-write problem by saving business data and outgoing messages)
      #### repo: https://github.com/mariosergio-portfolio/file-outbox-pattern-worker
+
 
   - File manager API: Asynchronous Rest API for file upload/download
      #### repo: https://github.com/mariosergio-portfolio/file-manager-api
