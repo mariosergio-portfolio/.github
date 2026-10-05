@@ -24,14 +24,15 @@ To try the case studies below, use the UI client available in the frontend repos
 ---  
 3- **Webstore App** 🛒 :  REST API / Architecture / Good Practices / UI
   
-  - **Webstore REST API JAVA** (SPRING + MAVEN) <img src="https://skillicons.dev/icons?i=spring,maven" height="28" align="absmiddle" /> - explores  **Postgres PostGIS** for geography data <img src="https://skillicons.dev/icons?i=postgres" height="28" align="absmiddle" /> + **HEXAGONAL Architecture** (Ports & Adapters) 🔌 + **REST API Good Practices**
+  - **Webstore REST API JAVA** (SPRING + MAVEN + PostGIS) <img src="https://skillicons.dev/icons?i=spring,maven,postgres" height="28" align="absmiddle" /> 
      #### repo: https://github.com/mariosergio-portfolio/webstore-api-java <img src="https://skillicons.dev/icons?i=java" height="28" align="absmiddle" />
+     note: explores  **Postgres PostGIS** for geography data + **HEXAGONAL Architecture** (Ports & Adapters)🔌 + **REST API Good Practices**
      
   --
-  - **Webstore REST API KOTLIN** (QUARKUS + GRADLE) <img src="https://skillicons.dev/icons?i=gradle" height="28" align="absmiddle" /> 🤖 —  explores the power of **GEN AI CODE MIGRATION** based on an existing implementation.
+  - **Webstore REST API KOTLIN** (QUARKUS + GRADLE) <img src="https://skillicons.dev/icons?i=gradle" height="28" align="absmiddle" /> 
     #### repo: https://github.com/mariosergio-portfolio/webstore-api-kotlin <img src="https://skillicons.dev/icons?i=kotlin" height="28" align="absmiddle" />
-    note: Fully Genereted with the following HARNESS:  atomic tech skills based on the Webstore REST API JAVA repo.
-
+    note: Fully AI Genereted with the following HARNESS:  atomic tech skills (my atomic skills: https://github.com/mariosergio-portfolio/skills) based on the Webstore REST API JAVA repo
+    
  --
   - **Webstore REACT UI FRONT-END APP** <img src="https://skillicons.dev/icons?i=vite" height="28" align="absmiddle" /> — A React + TypeScript single-page application for an webstore store front UI
     #### repo: https://github.com/mariosergio-portfolio/webstore-frontend <img src="https://skillicons.dev/icons?i=react,ts" height="28" align="absmiddle" />
