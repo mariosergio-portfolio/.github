@@ -24,7 +24,7 @@ To try the case studies below, use the UI client available in the frontend repos
 ---  
 3- **Webstore App** 🛒 :  REST API / Architecture / Good Practices / UI
   
-  - **Webstore REST API JAVA** (SPRING + MAVEN) <img src="https://skillicons.dev/icons?i=spring,maven" height="28" align="absmiddle" /> 🔌 - explores **HEXAGONAL Architecture** (Ports & Adapters) and **REST API Good Practices**
+  - **Webstore REST API JAVA** (SPRING + MAVEN) <img src="https://skillicons.dev/icons?i=spring,maven" height="28" align="absmiddle" /> 🔌 - explores  **Postgres PostGIS** for geography data + **HEXAGONAL Architecture** (Ports & Adapters) + **REST API Good Practices**
      #### repo: https://github.com/mariosergio-portfolio/webstore-api-java <img src="https://skillicons.dev/icons?i=java" height="28" align="absmiddle" />
      
   --
