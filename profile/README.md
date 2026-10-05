@@ -44,19 +44,19 @@ To try the case studies below, use the UI client available in the frontend repos
 
 ---
 
-5- **File Processing workloads (upload/download) ** <img src="https://skillicons.dev/icons?i=spring" height="28" align="absmiddle" /> 📤 — exploring the power of Spring Batch Framework / Outbox pattern / event-driver archctecture with RabbitMQ <img src="https://skillicons.dev/icons?i=rabbitmq" height="28" align="absmiddle" /> with consistent hash.
+5- **File Processing workloads (upload/download)** <img src="https://skillicons.dev/icons?i=spring" height="28" align="absmiddle" /> 📤 — exploring the power of Spring Batch Framework / Outbox pattern / event-driver archctecture with RabbitMQ <img src="https://skillicons.dev/icons?i=rabbitmq" height="28" align="absmiddle" /> with consistent hash.
   
-  - Spring Batch for Backgroud File Processing workloads
+  - **Spring Batch for Backgroud File Processing workloads**
      #### repo: https://github.com/mariosergio-portfolio/file-processor-worker 
 
 ---
 
-  - Transactional Outbox pattern: Relay Worker (solves the dual-write problem by saving business data and outgoing messages)
+  - **Transactional Outbox pattern: Relay Worker** (solves the dual-write problem by saving business data and outgoing messages)
      #### repo: https://github.com/mariosergio-portfolio/file-outbox-pattern-worker
 
 ---
 
-  - File manager API: Asynchronous Rest API for file upload/download
+  - **File manager API**: Asynchronous Rest API for file upload/download
      #### repo: https://github.com/mariosergio-portfolio/file-manager-api
 
 ---
