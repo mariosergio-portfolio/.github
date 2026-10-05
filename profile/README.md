@@ -26,7 +26,7 @@ To try the case studies below, use the UI client available in the frontend repos
   
   - **Webstore REST API JAVA** (SPRING + MAVEN + PostGIS) <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres" height="28" align="absmiddle" /> 
      #### repo: https://github.com/mariosergio-portfolio/webstore-api-java
-     note: explores  **Postgres PostGIS** for geography data + **HEXAGONAL Architecture** (Ports & Adapters)🔌 + **REST API Good Practices**
+     note: explores  **Postgres PostGIS** for geography/geospatial data + **HEXAGONAL Architecture** (Ports & Adapters)🔌 + **REST API Good Practices**
      
   --
   - **Webstore REST API KOTLIN** (QUARKUS + GRADLE) <img src="https://skillicons.dev/icons?i=gradle" height="28" align="absmiddle" /> 
