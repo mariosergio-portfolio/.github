@@ -21,7 +21,7 @@ To try the case studies below, use the UI client available in the frontend repos
   #### JAVA API: repo: https://github.com/mariosergio-portfolio/customers-api <img src="https://skillicons.dev/icons?i=java" height="28" align="absmiddle" />
   #### NODE API: repo: https://github.com/mariosergio-portfolio/customers-api-node <img src="https://skillicons.dev/icons?i=nodejs" height="28" align="absmiddle" /> (only Polly implementation, for now)
 
-  note: explores **Polly and Bedrock AWS Services AI Services** for text-to-speech and natural language features (with text-to-sql capacity). The NL features levarages an **Agentic AI** solution with tools to run Query and Write Email tasks.  **LangChain4j** is used to orchestrate the LLM<->agents round-trip interaction.
+  note: explores **Polly and Bedrock AWS Services AI Services** for text-to-speech and natural language features (with text-to-sql capacity). The NL features levarages an **Agentic AI** solution with tools to run Query and Write Email tasks.  **LangChain4j** [https://github.com/langchain4j/langchain4j] is used to orchestrate the LLM<->agents round-trip interaction.
   
 ---  
 3- **Webstore App** 🛒 :  REST API / Architecture / Good Practices / UI
